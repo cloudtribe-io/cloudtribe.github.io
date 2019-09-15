@@ -972,7 +972,7 @@ input[type='checkbox'] {
 /*************************/
 .basic-3 {
 	padding-top: 3.5rem;
-	padding-bottom: 7.25rem;
+	padding-bottom: 3.5rem;
 	background-color: #262431;
 }
 
@@ -987,7 +987,6 @@ input[type='checkbox'] {
 .basic-3 .btn-solid-reg {
 	margin-top: 0.5rem;
 }
-
 
 /**********************************/
 /*     11. Details Lightboxes     */
@@ -1737,7 +1736,7 @@ a:hover.back-to-top {
 	}
 
 	.basic-4 .text-container {
-		margin-top: 7rem;
+		margin-top: 2rem;
 		margin-bottom: 0;
 		text-align: left;
 	}
@@ -1898,7 +1897,7 @@ a:hover.back-to-top {
 
 	/* Download */
 	.basic-4 .text-container {
-		margin-top: 11rem;
+		margin-top: 5rem;
 	}
 
 	.basic-4 .image-container {
