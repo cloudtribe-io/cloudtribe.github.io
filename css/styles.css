@@ -762,6 +762,10 @@ input[type='checkbox'] {
 	margin-bottom: 3rem;
 }
 
+.header .mrgn {
+	margin-left: 2rem
+}
+
 .header h1 {
 	margin-bottom: 1rem;
 }
