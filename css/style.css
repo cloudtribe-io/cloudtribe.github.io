@@ -592,7 +592,7 @@ img {
   position:fixed;
   opacity:0;
   visibility:hidden;
-  background: #4527a4;
+  background: #0B08B7;
   left:0px;
   top:0px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
@@ -640,7 +640,7 @@ img {
 
 .main-header .outer-container .logo-box .logo{
   position: absolute;
-  padding: 20px 0px 10px 0px;
+  padding: 35px 0px 10px 0px;
 }
 
 
@@ -1271,7 +1271,7 @@ div#mCSB_1_container{
 }
 
 .sticky-header .main-menu .navigation > li > a{
-  padding: 15px 30px !important;
+  padding: 15px 15px !important;
 }
 
 .sticky-header .main-menu .navigation > li > a{
@@ -1287,7 +1287,7 @@ div#mCSB_1_container{
 .sticky-header .logo-box{
   position: relative;
   float: left;
-  padding: 8px 0px 7px 0px;
+  padding: 8px 0px 0px 0px;
 }
 
 .sticky-header .menu-area{
@@ -1496,7 +1496,7 @@ div#mCSB_1_container{
 
 .feature-section{
   position: relative;
-  padding: 220px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
 }
 
 #iamge_block_01 .image-box{
