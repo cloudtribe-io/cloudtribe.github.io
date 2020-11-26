@@ -492,6 +492,16 @@ img {
   text-align: center;
 }
 
+.sec-title h4{
+  position: relative;
+  display: block;
+  font-size: 22px;
+  color: #02005e;
+  font-weight: 400;
+  padding-bottom: 31px;
+  margin-bottom: 31px;
+}
+
 .sec-title h2{
   position: relative;
   display: block;
@@ -592,7 +602,7 @@ img {
   position:fixed;
   opacity:0;
   visibility:hidden;
-  background: #0B08B7;
+  background: #05038B;
   left:0px;
   top:0px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
@@ -9964,7 +9974,8 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   overflow: hidden;
-  background: #fff;
+  background: #02005e;
+  color: rgba(255, 255, 255, 0.863);
   padding: 70px 30px 44px 30px;
   border-radius: 20px;
   transition: all 500ms ease;
@@ -9974,6 +9985,7 @@ div#mCSB_1_container{
 .organization-section .single-item:hover .inner-box{
   transform: translateY(-15px);
   box-shadow: 0 0px 20px 0px rgba(0, 0, 0, 0.2);
+  color: black;
 }
 
 .organization-section .single-item .inner-box .left-layer {
@@ -10073,7 +10085,16 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 60px;
   line-height: 60px;
-  color: #1d00ff;
+  color: #fff;
+  margin-bottom: 27px;
+}
+
+.organization-section .single-item:hover .inner-box .icon-box{
+  position: relative;
+  display: inline-block;
+  font-size: 60px;
+  line-height: 60px;
+  color: #05038B;
   margin-bottom: 27px;
 }
 
@@ -10101,7 +10122,12 @@ div#mCSB_1_container{
 
 .organization-section .single-item .inner-box h4 a{
   display: inline-block;
-  color: #222;
+  color: #fff;
+}
+
+.organization-section .single-item:hover .inner-box h4 a{
+  display: inline-block;
+  color: black;
 }
 
 .organization-section .single-item .inner-box h4 a:hover{
