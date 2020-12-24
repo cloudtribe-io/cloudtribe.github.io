@@ -2635,7 +2635,16 @@ div#mCSB_1_container{
 
 #content_block_06 .content-box .text{
   position: relative;
-  font-size: 16px;
+  font-size: 22px;
+  font-weight: 390;
+  color:#222;
+  margin-bottom: 44px;
+}
+
+#content_block_06 .content-box .text a:link{
+  position: relative;
+  font-size: 22px;
+  color:#222;
   margin-bottom: 44px;
 }
 
@@ -2830,6 +2839,13 @@ div#mCSB_1_container{
   position: absolute;
   left: 0px;
   top: 13px;
+  color: #201F8D;
+}
+
+.contact li i{
+  left: 0px;
+  top: 13px;
+  margin-right: 15px;
   color: #201F8D;
 }
 
